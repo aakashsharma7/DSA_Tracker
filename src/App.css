@@ -64,8 +64,8 @@ div {
   height: 80vh;
   align-items: center;
   justify-content: center;
-  /* background-color: #082032; */
-  background: linear-gradient(135deg, #4e1307, #334756, #2c394b, #082032);
+  background-color: #082032;
+  /* background: linear-gradient(135deg, #4e1307, #334756, #2c394b, #082032); */
   /* border: red 2px solid; */
   /* padding: 8dvh 0; */
 }
